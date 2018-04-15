@@ -1,0 +1,15 @@
+.sm-btn{
+    margin: 5px 15px;
+    padding: 6px 20px;
+    background: #03A9F4;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    opacity: .9;
+    box-shadow: 2px 2px 4px #333;
+    cursor: pointer;
+}
+
+.sm-btn:hover {
+    opacity: 1;
+}
