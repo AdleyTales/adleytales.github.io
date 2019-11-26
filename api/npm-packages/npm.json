@@ -1,0 +1,12 @@
+[
+  {
+    "npm": "md5",
+    "desc": "md5签名",
+    "url": "https://www.npmjs.com/package/md5"
+  },
+  {
+    "npm": "pm2",
+    "desc": "进程管理工具",
+    "url": "https://pm2.keymetrics.io/"
+  }
+]
