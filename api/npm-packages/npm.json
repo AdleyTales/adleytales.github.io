@@ -8,5 +8,10 @@
     "npm": "pm2",
     "desc": "进程管理工具",
     "url": "https://pm2.keymetrics.io/"
+  },
+  {
+    "npm": "hexo",
+    "desc": "hexo搭建自己的博客系统",
+    "url": "https://hexo.io/"
   }
 ]
