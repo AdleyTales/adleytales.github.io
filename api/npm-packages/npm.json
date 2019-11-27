@@ -13,5 +13,30 @@
     "npm": "hexo",
     "desc": "hexo搭建自己的博客系统",
     "url": "https://hexo.io/"
+  },
+  {
+    "npm": "axios",
+    "desc": "最好用的前端Http请求库",
+    "url": "http://www.axios-js.com/"
+  },
+  {
+    "npm": "dateformat",
+    "desc": "轻量级的日期格式化库",
+    "url": "https://www.npmjs.com/package/dateformat"
+  },
+  {
+    "npm": "vue-clipboard2",
+    "desc": "基于vue的点击拷贝文字库",
+    "url": "https://www.npmjs.com/package/vue-clipboard2"
+  },
+  {
+    "npm": "normalize.css",
+    "desc": "用现代标准统一各大浏览器样式的css库",
+    "url": "http://necolas.github.io/normalize.css/"
+  },
+  {
+    "npm": "element-ui",
+    "desc": "基于Vue开发的最好用的UI库",
+    "url": "https://element.eleme.cn/#/zh-CN"
   }
 ]
