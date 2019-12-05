@@ -1,0 +1,7 @@
+[
+  {
+    "npm": "pm2",
+    "desc": "进程管理工具",
+    "url": "https://pm2.keymetrics.io/"
+  }
+]
