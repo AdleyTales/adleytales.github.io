@@ -33,5 +33,10 @@
     "npm": "element-ui",
     "desc": "基于Vue开发的最好用的UI库",
     "url": "https://element.eleme.cn/#/zh-CN"
+  },
+  {
+    "npm": "codemirror",
+    "desc": "基于web的代码编辑工具",
+    "url": "https://www.npmjs.com/package/codemirror"
   }
 ]
