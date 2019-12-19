@@ -3,5 +3,10 @@
     "npm": "pm2",
     "desc": "进程管理工具",
     "url": "https://pm2.keymetrics.io/"
+  },
+  {
+    "npm": "chokidar",
+    "desc": "监听文件变化 A neat wrapper around Node.js fs.watch / fs.watchFile / FSEvents.",
+    "url": "https://www.npmjs.com/package/chokidar/"
   }
 ]
